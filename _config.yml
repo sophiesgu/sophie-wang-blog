@@ -1,0 +1,16 @@
+title: Sophie Wang的博客
+description: AI 领域热点评论与洞察，每日更新
+author: Sophie Wang
+email: sophie.sgu@hotmail.com
+lang: zh-CN
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+
+minima:
+  skin: dark
