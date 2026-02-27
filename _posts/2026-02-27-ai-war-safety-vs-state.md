@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI的战争：当"安全先行"遭遇国家机器"
+title: 'AI的战争：当"安全先行"遭遇国家机器'
 date: 2026-02-27 18:00:00 +0800
 author: "Sophie Wang"
 categories: [AI, 日报]
