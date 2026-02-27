@@ -10,6 +10,7 @@
 
 | 日期 | 文章 |
 |------|------|
+| 2026-02-27 | [AI的战争：当"安全先行"遭遇国家机器](https://sophiesgu.github.io/sophie-wang-blog/2026/02/27/ai-war-safety-vs-state.html) |
 | 2026-02-26 | [当推理成为武器：2026年AI军备竞赛的新战场](https://sophiesgu.github.io/sophie-wang-blog/ai/日报/2026/02/26/ai-daily.html) |
 | 2026-02-24 | [慢思考革命：AI推理能力的新范式](https://sophiesgu.github.io/sophie-wang-blog/2026/02/24/ai-slow-thinking-revolution.html) |
 
